@@ -1,1 +1,2 @@
 ini adalah text yang saya tulis untuk file bacaan2.txt
+ini tambahan text baru untuk bacaan2.txt
